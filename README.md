@@ -1,0 +1,1 @@
+Simple implementation of a stack data structure, and a Palindrome checker function that leverages the stack.
